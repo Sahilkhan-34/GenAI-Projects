@@ -4,7 +4,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 
-key = "AIzaSyALIvB-IxfKhe0Zxzdii2TEqTmefMxPk5M"
+key = "AIzaSyALIvB-IxfKhe0Zxzdii2TEqTmefMxPk5"
 genai.configure(api_key=key)
 
 
