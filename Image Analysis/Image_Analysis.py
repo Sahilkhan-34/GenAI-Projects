@@ -29,6 +29,6 @@ if st.button("Get Response"):
     response = model.generate_content([prompt,img])
     st.markdown(response.text)
 
-# img = Image.open(r'C:\Users\sahil\OneDrive\Naresh IT Class\Grooming Class\GenAI Projets\Image Analysis\sneaker.jpg')
+# img = Image.open(r'C:\Users\sahil\OneDrive\GenAI Projets\Image Analysis\sneaker.jpg')
 # st.write(plt.imshow(img))
 
