@@ -4,7 +4,7 @@ import google.generativeai as genai
 from streamlit_chat import message
 
 # Provide the api key
-api_key = ""
+api_key = "AIzaSyDMDsDDs5aHpJ69pBKedgzK3_EpAIcmyfQ"
 genai.configure(api_key=api_key)
 
 # Read the Model
